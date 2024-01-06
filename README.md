@@ -1,0 +1,6 @@
+Co-Designing an AI Chatbot to Improve Patient Experience in the Hospital
+A human-centered design case study of a collaboration between a hospital, a university, and ChatGPT
+
+Introduction
+
+Patient experience (PX) is an important reflection of healthcare quality and is highly related to patient health outcomes and hospital reputation of within the communities they serve. PX data reported by patients is also crucial for hospitals to improve the services they provide, however, current approaches to survey and analyze PX data have many limitations. Our team collaborated with United Health Services (UHS), a New York healthcare system, to co-design a prototype chatbot application for patients to use while in the hospital, yielding more accurate PX data, but also an opportunity for staff to respond in real-time. We discuss our human-centered design process, which entailed interviews, data mining, qualitative analysis, and the application of ChatGPT, convolutional neural network (CNN), and long short-term memory (LSTM) to recognize relevant PX complaints from natural language data. Through ongoing collaboration with UHS, we are developing an AI chatbot application with large language model, which produces valuable insights and allows PX experts to intervene and improve patient experience in real-time.
