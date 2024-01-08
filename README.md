@@ -5,5 +5,9 @@ Patient experience (PX) is an important reflection of healthcare quality and is 
 ### AI Chatbot Application
 Our AI chatbot is a web-based chatbot application developed by OpenAsssitant LLaMA-Based model, based on Streamlit framework. If you want to use our application code in your work, please make citation as below. Thanks.
 
+### Demo
+<img width="208" alt="image" src="https://github.com/xin-wang-kr/streamlit-AI-chatbot/assets/28020765/ce95fcc1-b27c-4713-8e15-31700b8e0247">
+
+
 __Citation:__ 
 Xin Wang, Samer M. Abubaker, Grace T. Babalola, and Stephanie Tulk Jesso. 2024. Co-Designing an AI Chatbot to Improve Patient Experience in the Hospital: A human-centered design case study of a collaboration between a hospital, a university, and ChatGPT. In _Extended Abstract of the 2024 CHI Conference on Human Factors in Computing Systems (CHI EA ’24), May 11-16, 2024, Honolulu, HI._ ACM, New York, NY, USA, 8 pages. https://doi.org/10.1145/3613905.3637149
