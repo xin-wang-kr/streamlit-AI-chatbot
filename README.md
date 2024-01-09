@@ -11,3 +11,5 @@ Our AI chatbot is a web-based chatbot application developed by OpenAsssitant LLa
 
 __Citation:__ 
 Xin Wang, Samer M. Abubaker, Grace T. Babalola, and Stephanie Tulk Jesso. 2024. Co-Designing an AI Chatbot to Improve Patient Experience in the Hospital: A human-centered design case study of a collaboration between a hospital, a university, and ChatGPT. In _Extended Abstract of the 2024 CHI Conference on Human Factors in Computing Systems (CHI EA ’24), May 11-16, 2024, Honolulu, HI._ ACM, New York, NY, USA, 8 pages. https://doi.org/10.1145/3613905.3637149
+
+If you have any questions, you can contact me at xwang314@binghamton.edu
