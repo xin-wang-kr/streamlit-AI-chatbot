@@ -3,20 +3,20 @@ from hugchat import hugchat
 from hugchat.login import Login
 
 # App title
-st.set_page_config(page_title="💬 AI Chatbot")
+st.set_page_config(page_title="💬 PX AI Chatbot")
 
 # Hugging Face Credentials
 with st.sidebar:
-    st.title('💬 AI Chatbot')
+    st.title('💬 Patient Experience AI Chatbot')
     if ('EMAIL' in st.secrets) and ('PASS' in st.secrets):
         st.success('HuggingFace Login credentials already provided!', icon='✅')
         hf_email = st.secrets['EMAIL']
         hf_pass = st.secrets['PASS']
     else:
-        hf_email = st.text_input('Enter E-mail:', type='password')
+        hf_email = st.text_input('Enter E-mail:', type='default')
         hf_pass = st.text_input('Enter password:', type='password')
         if not (hf_email and hf_pass):
-            st.warning('Please enter your credentials!', icon='⚠️')
+            st.warning('Please login to start!', icon='⚠️')
         else:
             st.success('Proceed to entering your prompt message!', icon='👉')
     st.markdown(
