@@ -22,7 +22,20 @@ with st.sidebar:
     st.markdown(
         '🤗 Enjoy the conversation!')
     st.markdown(
-        'The applied OpenAssistant LLaMA-Based Models can be visited [here](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor?ref=blog.streamlit.io).'
+        'The applied OpenAssistant LLaMA-based Models can be visited [here](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor?ref=blog.streamlit.io).'
+    )
+    st.markdown(
+        "This is an AI chatbot prototype uses Large Language Models to recognize common types of patient complaints expressed by people who are receiving healthcare services."
+        " This prototype shows the patient-facing side of an application which is meant to tag common complaints, respond to patients, and let hospital staff know that a patient is "
+        "experiencing an issue which could then be addressed in real time. This is part of an ongoing effort to develop a chatbot which could be used to gather feedback and improve "
+        "patient experience for people who are in the emergency department or hospital. If you want to know more, feel free to read our work [here](https://xin-wang-kr.github.io/px-collection-AI-chatbot/)"
+    )
+
+with st.expander("Click here for guidance"):
+    st.markdown(
+        "Hello! This is an AI chatbot prototype designed to recognize common types of patient complaints and respond with natural language. "
+        "This is part of an ongoing effort to develop a chatbot which could be used to gather feedback and improve patient experience for people"
+        " who are in the emergency department or hospital."
     )
 
 # Store LLM generated responses
